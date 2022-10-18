@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 #ifndef HOLBERTON_H
-
 #define HOLBERTON_H
-=======
-#ifndef MAIN_H
-#define MAIN_H
->>>>>>> 83d7fffa8f388aacf0687ea97a92e677f7e9193c
 
 #include <stdlib.h>
 #include <stdarg.h>
