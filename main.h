@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 #ifndef HOLBERTON_H
 
 #define HOLBERTON_H
+=======
+#ifndef MAIN_H
+#define MAIN_H
+>>>>>>> 83d7fffa8f388aacf0687ea97a92e677f7e9193c
 
 #include <stdlib.h>
 #include <stdarg.h>
@@ -18,7 +23,8 @@ typedef struct flags
 	int plus;
 	int space;
 	int hash;
-} flags_t;
+}
+flags_t;
 
 /**
  * struct printHandler - struct to choose the right function depending
